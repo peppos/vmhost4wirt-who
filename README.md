@@ -4,7 +4,7 @@ Exist two scripts:
 
 vshere_list_4_yaml.pl --> Create a csv file with the ClusterName, ESX host, CpuCores, CpuPackages, CpuThreads
 
-create_yaml.sh --> Create a YAML file for virt-who
+create_yaml.sh --> Create a YAML file for virt-who in github https://github.com/RedHatSatellite/katello-attach-subscription
 
 # Require
 
